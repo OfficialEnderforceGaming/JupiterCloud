@@ -4,7 +4,7 @@
 
 <p>
   <p align="center">
-    A simple alternative to other minecraft cloud systems
+    A Minecraft Dynamic Cloudsystem 
     <br />
     <a href="">-</a>
     ·
